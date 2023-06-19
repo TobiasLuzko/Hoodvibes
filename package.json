@@ -1,0 +1,11 @@
+{
+  "name": "hoodvibes",
+  "version": "1.0.0",
+  "description": "Pagina de Hoodies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Luzko",
+  "license": "ISC"
+}
